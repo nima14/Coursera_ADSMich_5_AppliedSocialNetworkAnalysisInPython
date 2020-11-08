@@ -1,1 +1,5 @@
-# Coursera_ADSMich_5_AppliedSocialNetworkAnalysisInPython
+Platform: Coursera
+
+Specialization: Applied Data Science With Python
+
+Course: Applied Social Network Analysis in Python
